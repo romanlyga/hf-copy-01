@@ -1,7 +1,6 @@
 ---
 title: The Advantages and Disadvantages of Working from Home
 date: '2019-03-30'
-thumb_img_path: images/9.jpg
 excerpt: >-
   Work at home parent is an entrepreneur who works from home and integrates
   parenting into his or her business activities. They are sometimes referred to
